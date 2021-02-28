@@ -1,1 +1,0 @@
-go run .\main.go .\structs.go .\functions.go .\telegram.go .\analyse.go .\ResistanceFinder.go
